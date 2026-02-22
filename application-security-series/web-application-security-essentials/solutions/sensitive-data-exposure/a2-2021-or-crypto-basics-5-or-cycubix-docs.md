@@ -1,0 +1,34 @@
+# A2:2021 | Crypto Basics (5) | Cycubix Docs
+
+### Symmetric encryption <a href="#symmetric_encryption" id="symmetric_encryption"></a>
+
+Symmetric encryption is based on a shared secret that is used for both encryption as well as decryption. Therefore, both parties (that are involved in exchanging secrets) share the same key.
+
+Example protocols are:
+
+* AES
+* 3DES
+
+### Asymmetric encryption <a href="#asymmetric_encryption" id="asymmetric_encryption"></a>
+
+Asymmetric encryption is based on mathematical principles that consist of a key pair.&#x20;
+
+The two keys are usually called a private key and a public key. The private key needs to be protected very well and is only known to one party. All others can freely use the public key.&#x20;
+
+Something encrypted with the private key can be decrypted by all that have the public key, and something encrypted with the public key can only be decrypted with the private key.
+
+Example protocols are:
+
+* RSA
+* DSA
+
+### HTTPS uses both symmetric and asymmetric keys <a href="#https_uses_both_symmetric_and_asymmetric_keys" id="https_uses_both_symmetric_and_asymmetric_keys"></a>
+
+Here is a short description of what happens if you open your browser and go to an https site.
+
+* Your browser connects to the server and gets the webserver certificate.&#x20;
+* Your browser checks if it trusts the certificate issuer by checking if the issuer certificate is in its trust store. This trust store is managed by operating system and browser updates. And on some corporate networks it is managed by the company. From the certificate the browser obtains the public key.
+* The browser now generates random bytes to be used to generate a symmetric key and encrypts this with the public key of the server. So only the server can decrypt it.
+* At the end of this process both the browser and the webserver will use the exchanged symmetric key (in the asymmetric key exchange process) to encrypt and decrypt messages that are sent back and forth between the browser and the webserver.
+
+Symmetric keys are used because it can be used more easily with large sets of data and requires less processing power in doing so. However, the information on these pages is just for a basic understanding of cryptography. Look on the internet for more detailed information about these topics.

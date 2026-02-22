@@ -1,0 +1,10 @@
+# General | Developer Tools (4) | Cycubix Docs
+
+## Using the Console
+
+Let us try it. Use the console in the dev tools and call the javascript function **webgoat.customjs.phoneHome()**.
+
+\
+You should get a response in the console. Your result should look something like this: `phone home said {"lessonCompleted:true, …​ ,"output":"phone home response is…​"` Paste the random number, after that, in the text field below. (Make sure you got the most recent number since it is randomly generated each time you call the function).
+
+<figure><img src="../../../../.gitbook/assets/developer tools 4.png" alt=""><figcaption></figcaption></figure>

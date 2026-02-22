@@ -1,0 +1,13 @@
+# Client Side | HTML Tampering (1) | Cycubix Docs
+
+### Concept <a href="#concept" id="concept"></a>
+
+Browsers generally offer many options of editing the displayed content. Developers therefore must be aware that the values sent by the user may have been tampered with.
+
+### Goals <a href="#goals" id="goals"></a>
+
+* The user should have a basic understanding of HTML
+* The user will be able to exploit editing front end of website
+
+
+
