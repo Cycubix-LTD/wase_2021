@@ -10,6 +10,12 @@ At Cycubix we believe training plays a fundamental role in the development and m
 
 Our courses cover from general information security awareness, through to practitioner-level training and up to globally recognised certifications. All courses are available as classroom-based seminars, [private group training](https://cycubix.com/private-group-training/) for organisations with a larger group or team, or as [online cyber security training](https://cycubix.com/live-online-training/).
 
+## Upcoming Training Events
+
+* [**OWASP AppSec Italy Days 2026**](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415) — June 17-18, 2026 at Emerson Beach Club, Cagliari, Sardinia. Fabio Cerullo will deliver a 1.5-day hands-on training on Secure Coding for LLM Applications.
+
+* [**OWASP Global AppSec EU 2026**](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) — June 22-26, 2026 at the Austria Center, Vienna, Austria. Cycubix will be delivering training at OWASP's flagship European conference. Training days run June 22-24.
+
 ## Application Security Courses
 
 * [**Web Application Security Essentials**](https://cycubix.com/cycubix-trainings/web-application-security-essentials) — Hands-on course, aligned with the OWASP Top 10 2025, that empowers professionals to spot and assess security risks in web applications.

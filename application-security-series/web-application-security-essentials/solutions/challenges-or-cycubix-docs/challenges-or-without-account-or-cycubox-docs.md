@@ -3,7 +3,7 @@ title: "Challenges | Without Account | Cycubox Docs"
 layout: default
 nav_order: 4
 parent: "Challenges | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
 ---
 # Challenges | Without Account | Cycubox Docs
 

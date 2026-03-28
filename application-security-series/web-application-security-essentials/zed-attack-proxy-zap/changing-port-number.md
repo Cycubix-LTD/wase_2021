@@ -3,8 +3,8 @@ description: You can change the ZAP port number by opening ZAP tools, going to o
 title: "ZAP | ZAP Proxy | Cycubix Docs"
 layout: default
 nav_order: 3
-parent: "ZAP | Web Application Security Essentials | Cycubix Docs"
-grand_parent: Web Application Security Essentials
+parent: "ZAP | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021) (2021)
 ---
 # ZAP | ZAP Proxy | Cycubix Docs
 

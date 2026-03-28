@@ -1,13 +1,13 @@
 ---
-title: "Introduction | Web Application Security Essentials | Cycubix Docs"
+title: "Introduction | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
 layout: default
 nav_order: 1
-parent: Web Application Security Essentials
+parent: Web Application Security Essentials (2021) (2021)
 grand_parent: Application Security Series
 ---
-# Introduction | Web Application Security Essentials | Cycubix Docs
+# Introduction | Web Application Security Essentials (2021) (2021) | Cycubix Docs
 
-The Web Application Security Essentials training utilise the following projects:
+The Web Application Security Essentials (2021) (2021) training utilise the following projects:
 
 [OWASP WebGoat](webgoat-8/)
 

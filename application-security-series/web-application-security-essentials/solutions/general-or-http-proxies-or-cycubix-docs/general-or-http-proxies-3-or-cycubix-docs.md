@@ -3,7 +3,7 @@ title: "General | HTTP Proxies (3) | Cycubix Docs"
 layout: default
 nav_order: 3
 parent: "General | HTTP Proxies | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
 ---
 # General | HTTP Proxies (3) | Cycubix Docs
 

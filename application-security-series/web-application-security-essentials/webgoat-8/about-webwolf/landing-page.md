@@ -4,7 +4,7 @@ title: "WebWolf Landing Page | Web Application Security | Cycubix Docs"
 layout: default
 nav_order: 3
 parent: "WebWolf | Web Application Security | Cycubix Docs"
-grand_parent: "WebGoat | Web Application Security Essentials | Cycubix Docs"
+grand_parent: "WebGoat | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
 ---
 # WebWolf Landing Page | Web Application Security | Cycubix Docs
 
