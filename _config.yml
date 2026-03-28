@@ -3,7 +3,7 @@ description: Documentation for students, developers and cyber professionals
 theme: just-the-docs
 
 url: "https://docs.cycubix.com"
-baseurl: "/gitbook"
+baseurl: "/wase_2021"
 
 color_scheme: light
 
@@ -11,7 +11,7 @@ aux_links:
   "Cycubix.com":
     - "https://cycubix.com"
   "GitHub":
-    - "https://github.com/Cycubix-LTD/gitbook"
+    - "https://github.com/Cycubix-LTD/wase_2021"
 
 nav_enabled: true
 heading_anchors: true
