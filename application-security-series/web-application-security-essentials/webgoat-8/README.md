@@ -4,7 +4,6 @@ title: "WebGoat | Web Application Security Essentials (2021) | Cycubix Docs"
 layout: default
 nav_order: 2
 parent: Web Application Security Essentials (2021)
-grand_parent: Application Security Series
 has_children: true
 ---
 # WebGoat | Web Application Security Essentials (2021) | Cycubix Docs

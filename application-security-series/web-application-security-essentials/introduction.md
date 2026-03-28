@@ -3,7 +3,6 @@ title: "Introduction | Web Application Security Essentials (2021) | Cycubix Docs
 layout: default
 nav_order: 1
 parent: Web Application Security Essentials (2021)
-grand_parent: Application Security Series
 ---
 # Introduction | Web Application Security Essentials (2021) | Cycubix Docs
 
