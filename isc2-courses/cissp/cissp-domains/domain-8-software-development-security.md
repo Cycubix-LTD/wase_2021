@@ -1,2 +1,0 @@
-# Domain 8: Software Development Security
-

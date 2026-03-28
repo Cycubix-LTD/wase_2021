@@ -1,2 +1,0 @@
-# CISSP Resource Materials
-
