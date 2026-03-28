@@ -3,8 +3,8 @@ description: Visit our page and learn how to quickly start and run Webgoat and W
 title: "WebGoat & WebWolf Run | Web Application Security | Cycubix Docs"
 layout: default
 nav_order: 2
-parent: "WebGoat | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
-grand_parent: Web Application Security Essentials (2021) (2021)
+parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021) (2021) (2021)
 ---
 # WebGoat & WebWolf Run | Web Application Security | Cycubix Docs
 

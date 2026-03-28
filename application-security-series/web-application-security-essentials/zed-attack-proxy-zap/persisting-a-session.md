@@ -3,8 +3,8 @@ description: When you first start ZAP, you will be asked if you want to persist 
 title: "ZAP | Persist ZAP Session | Cycubix Docs"
 layout: default
 nav_order: 2
-parent: "ZAP | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
-grand_parent: Web Application Security Essentials (2021) (2021)
+parent: "ZAP | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021) (2021) (2021)
 ---
 # ZAP | Persist ZAP Session | Cycubix Docs
 

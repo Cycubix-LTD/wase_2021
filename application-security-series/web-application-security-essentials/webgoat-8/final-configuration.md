@@ -3,8 +3,8 @@ description: Besides using the default URL you can also create fully qualified d
 title: "WebGoat Configuration | Web Application Security | Cycubix Docs"
 layout: default
 nav_order: 3
-parent: "WebGoat | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
-grand_parent: Web Application Security Essentials (2021) (2021)
+parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021) (2021) (2021)
 ---
 # WebGoat Configuration | Web Application Security | Cycubix Docs
 

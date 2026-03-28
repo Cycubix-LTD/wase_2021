@@ -3,7 +3,7 @@ title: Docker
 layout: default
 nav_order: 2
 parent: "WebGoat Installation | Web Application Security | Cycubix Docs"
-grand_parent: "WebGoat | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
 ---
 # Docker
 

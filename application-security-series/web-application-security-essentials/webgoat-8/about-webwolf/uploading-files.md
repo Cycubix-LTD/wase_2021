@@ -4,7 +4,7 @@ title: "Webwolf Upload | WebWolf | Web Application Security | Cycubix"
 layout: default
 nav_order: 1
 parent: "WebWolf | Web Application Security | Cycubix Docs"
-grand_parent: "WebGoat | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
 ---
 # Webwolf Upload | WebWolf | Web Application Security | Cycubix
 

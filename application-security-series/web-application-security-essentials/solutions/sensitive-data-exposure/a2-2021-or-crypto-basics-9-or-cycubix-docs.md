@@ -3,7 +3,7 @@ title: "A2:2021 | Crypto Basics (9) | Cycubix Docs"
 layout: default
 nav_order: 9
 parent: "A2:2021 | Cryptographic Failures | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
 ---
 # A2:2021 | Crypto Basics (9) | Cycubix Docs
 

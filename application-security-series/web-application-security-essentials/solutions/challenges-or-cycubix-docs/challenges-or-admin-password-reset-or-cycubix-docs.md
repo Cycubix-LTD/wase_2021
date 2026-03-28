@@ -3,7 +3,7 @@ title: "Challenges | Admin Password Reset | Cycubix Docs"
 layout: default
 nav_order: 3
 parent: "Challenges | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
 ---
 # Challenges | Admin Password Reset | Cycubix Docs
 

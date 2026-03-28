@@ -3,8 +3,8 @@ description: WebWolf is a separate web application which simulates an attackers 
 title: "WebWolf | Web Application Security | Cycubix Docs"
 layout: default
 nav_order: 4
-parent: "WebGoat | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
-grand_parent: Web Application Security Essentials (2021) (2021)
+parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021) (2021) (2021)
 has_children: true
 ---
 # WebWolf | Web Application Security | Cycubix Docs

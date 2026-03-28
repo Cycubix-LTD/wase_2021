@@ -18,7 +18,7 @@ Our courses cover from general information security awareness, through to practi
 
 ## Application Security Courses
 
-* [**Web Application Security Essentials**](https://cycubix.com/cycubix-trainings/web-application-security-essentials) — Hands-on course, aligned with the OWASP Top 10 2025, that empowers professionals to spot and assess security risks in web applications.
+* [**Web Application Security Essentials (2021)**](https://cycubix.com/cycubix-trainings/web-application-security-essentials) — Hands-on course, aligned with the OWASP Top 10 2025, that empowers professionals to spot and assess security risks in web applications.
 
 * [**Secure Coding in Java**](https://cycubix.com/cycubix-trainings/secure-coding-in-java) — Teaches Java developers best practices to minimise security vulnerabilities in corporate applications.
 

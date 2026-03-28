@@ -1,12 +1,12 @@
 ---
-title: "ZAP | Web Application Security Essentials (2021) (2021) | Cycubix Docs"
+title: "ZAP | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
 layout: default
 nav_order: 3
-parent: Web Application Security Essentials (2021) (2021)
+parent: Web Application Security Essentials (2021) (2021) (2021)
 grand_parent: Application Security Series
 has_children: true
 ---
-# ZAP | Web Application Security Essentials (2021) (2021) | Cycubix Docs
+# ZAP | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs
 
 [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) is a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP). ZAP is designed specifically for testing web applications and is both flexible and extensible.
 
