@@ -3,8 +3,8 @@ description: In order to utilize WebGoat and WebWolf you need to fulfil the syst
 title: "WebGoat & WebWolf System Requirements | Cycubix Docs"
 layout: default
 nav_order: 5
-parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
-grand_parent: Web Application Security Essentials (2021) (2021) (2021)
+parent: "WebGoat | Web Application Security Essentials (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021)
 ---
 # WebGoat & WebWolf System Requirements | Cycubix Docs
 

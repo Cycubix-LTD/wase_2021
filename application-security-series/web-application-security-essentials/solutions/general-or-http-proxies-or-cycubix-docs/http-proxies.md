@@ -1,10 +1,10 @@
 ---
-description: As part of our Web Application Security Essentials (2021) (2021) (2021) course we offer practical guides on HTTPS proxy. Learn HTTPS proxy basics with our security essentials guide.
+description: As part of our Web Application Security Essentials (2021) course we offer practical guides on HTTPS proxy. Learn HTTPS proxy basics with our security essentials guide.
 title: "General | HTTP Proxies (1) | Cycubix Docs"
 layout: default
 nav_order: 1
 parent: "General | HTTP Proxies | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) | Cycubix Docs"
 ---
 # General | HTTP Proxies (1) | Cycubix Docs
 

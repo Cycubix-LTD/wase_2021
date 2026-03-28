@@ -3,7 +3,7 @@ title: "General | The CIA Triad (1) | Cycubix Docs"
 layout: default
 nav_order: 1
 parent: "General | The CIA Triad | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) | Cycubix Docs"
 ---
 # General | The CIA Triad (1) | Cycubix Docs
 

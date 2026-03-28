@@ -3,8 +3,8 @@ description: Download the appropriate Zap and install it on your computer. Zap h
 title: "ZAP | Download & Installation | Cycubix Docs"
 layout: default
 nav_order: 1
-parent: "ZAP | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
-grand_parent: Web Application Security Essentials (2021) (2021) (2021)
+parent: "ZAP | Web Application Security Essentials (2021) | Cycubix Docs"
+grand_parent: Web Application Security Essentials (2021)
 ---
 # ZAP | Download & Installation | Cycubix Docs
 

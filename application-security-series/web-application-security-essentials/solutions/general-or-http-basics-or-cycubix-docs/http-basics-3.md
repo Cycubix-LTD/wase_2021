@@ -4,7 +4,7 @@ title: "General | HTTP Basics (3) | Cycubix Docs"
 layout: default
 nav_order: 3
 parent: "General | HTTP Basics | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) | Cycubix Docs"
 ---
 # General | HTTP Basics (3) | Cycubix Docs
 

@@ -3,7 +3,7 @@ title: "General | Developer Tools (4) | Cycubix Docs"
 layout: default
 nav_order: 4
 parent: "General | Developer Tools | Cycubix Docs"
-grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat Labs | Web Application Security Essentials (2021) | Cycubix Docs"
 ---
 # General | Developer Tools (4) | Cycubix Docs
 

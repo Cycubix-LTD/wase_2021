@@ -3,7 +3,7 @@ title: Stand-alone
 layout: default
 nav_order: 1
 parent: "WebGoat Installation | Web Application Security | Cycubix Docs"
-grand_parent: "WebGoat | Web Application Security Essentials (2021) (2021) (2021) | Cycubix Docs"
+grand_parent: "WebGoat | Web Application Security Essentials (2021) | Cycubix Docs"
 ---
 # Stand-alone
 
