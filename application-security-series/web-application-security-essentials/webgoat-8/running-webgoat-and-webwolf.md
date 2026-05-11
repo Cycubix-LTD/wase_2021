@@ -10,4 +10,4 @@ grand_parent: Web Application Security Essentials (2021)
 
 WebGoat should be available at: [http://localhost:8080/WebGoat](http://localhost:8080/WebGoat)
 
-WebWolf should be available at: [http://localhost:9090/WebWolf](system-requirements/)
+WebWolf should be available at: [http://localhost:9090/WebWolf](system-requirements)

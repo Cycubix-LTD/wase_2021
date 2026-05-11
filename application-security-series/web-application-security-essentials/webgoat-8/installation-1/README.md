@@ -11,6 +11,6 @@ has_children: true
 
 #### There are several ways in which WebGoat and WebWolf can be installed:
 
-* [Stand Alone](stand-alone/)
-* [Docker](docker/)
+* [Stand Alone](stand-alone)
+* [Docker](docker)
 
