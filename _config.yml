@@ -5,6 +5,9 @@ theme: just-the-docs
 url: "https://docs.cycubix.com"
 baseurl: "/wase_2021"
 
+# Google Analytics
+ga_tracking: G-3BXPWQD6L8
+
 color_scheme: light
 
 aux_links:
