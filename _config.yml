@@ -3,7 +3,7 @@ description: Documentation for students, developers and cyber professionals
 theme: just-the-docs
 
 url: "https://docs.cycubix.com"
-baseurl: "/wase_2021"
+baseurl: ""
 
 # Google Analytics
 ga_tracking: G-3BXPWQD6L8
@@ -39,6 +39,8 @@ exclude:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Enable navigation for deeply nested pages
 nav_external_links: []
