@@ -2,8 +2,8 @@ title: Cycubix Docs
 description: Documentation for students, developers and cyber professionals
 theme: just-the-docs
 
-url: "https://docs.cycubix.com"
-baseurl: ""
+url: "https://cycubix.com"
+baseurl: "/wase_2021"
 
 # Google Analytics
 ga_tracking: G-3BXPWQD6L8
@@ -36,6 +36,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - legacy-redirects
 
 plugins:
   - jekyll-include-cache
