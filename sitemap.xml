@@ -4,28 +4,49 @@
     <loc>https://docs.cycubix.com/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/README.html</loc>
+    <loc>https://docs.cycubix.com/secure-coding/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/SUMMARY.html</loc>
+    <loc>https://docs.cycubix.com/secure-coding/java/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/README.html</loc>
+    <loc>https://docs.cycubix.com/owasp-top-10/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/README.html</loc>
+    <loc>https://docs.cycubix.com/labs/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/labs/webgoat/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/labs/webwolf/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/labs/zap/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/events/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/reference/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/application-security-series/</loc>
+  </url>
+  <url>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/introduction.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-advanced-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-advanced-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-advanced-or-cycubix-docs/a3-2021-or-sql-injection-advanced-1-or-cycubix-docs.html</loc>
@@ -46,7 +67,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-advanced-or-cycubix-docs/sql-injection-advanced-6.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-mitigation-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-mitigation-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-mitigation-or-cycubix-docs/a3-2021-or-sql-injection-mitigation-1-or-cycubics-docs.html</loc>
@@ -88,7 +109,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a1-injection-or-sql-injection-mitigation-or-cycubix-docs/a3-2021-or-sql-injection-mitigation-9-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-mitigation-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-mitigation-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-mitigation-or-cycubix-docs/a3-2021-or-cross-site-scripting-mitigation-1-or-cycubix-docs.html</loc>
@@ -109,7 +130,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-mitigation-or-cycubix-docs/a3-2021-or-cross-site-scripting-mitigation-6-or.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-stored-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-stored-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-stored-or-cycubix-docs/a3-2021-or-cross-site-scripting-stored-1-or-cycubix-docs.html</loc>
@@ -121,7 +142,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-cross-site-scripting-stored-or-cycubix-docs/a3-2021-or-cross-site-scripting-stored-3-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-path-transversal-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-path-transversal-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-path-transversal-or-cycubix-docs/a3-2021-or-path-transversal-1-or-cycubix-docs.html</loc>
@@ -148,7 +169,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-path-transversal-or-cycubix-docs/a3-2023-or-path-transversal-6-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-sql-injection-intro-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-sql-injection-intro-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-sql-injection-intro-or-cycubix-docs/a3-2021-or-sql-injection-intro-1-or-cycubix-docs.html</loc>
@@ -190,7 +211,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a3-2021-or-sql-injection-intro-or-cycubix-docs/sql-injection-intro-9.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a7-cross-site-scripting-xss/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a7-cross-site-scripting-xss/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a7-cross-site-scripting-xss/a3-2021-or-cross-site-scripting-xss-10-or-cycubix-docs.html</loc>
@@ -229,10 +250,10 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a1-injection/a7-cross-site-scripting-xss/a3-2021-or-cross-site-scripting-xxs-1-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-client-side-request-forgery-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-client-side-request-forgery-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-client-side-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-1-or-cycubix-docs.html</loc>
@@ -247,7 +268,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-client-side-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-4-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-or-cross-site-request-forgery-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-or-cross-site-request-forgery-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-or-cross-site-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-or-cross-site-request-forgery-1-or-cycubix-docs.html</loc>
@@ -277,7 +298,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a10-2021-or-server-side-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-or-cross-site-request-forgery-or-cycubix-docs/a10-2021-or-server-side-request-forgery-or-cross-site-request-forgery-9-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a4-xml-external-entities-xxe/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a4-xml-external-entities-xxe/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a4-xml-external-entities-xxe/a5-2021-or-security-misconfiguration-1-or-cycubix-docs.html</loc>
@@ -319,10 +340,10 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a4-xml-external-entities-xxe/a5-2021-or-security-misconfiguration-9-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-hijack-a-session-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-hijack-a-session-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-hijack-a-session-or-cycubix-docs/a1-2021-or-hijack-a-session-1-or-cycubix-docs.html</loc>
@@ -331,7 +352,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-hijack-a-session-or-cycubix-docs/a1-2021-or-hijack-a-session-2-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-insecure-direct-object-reference-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-insecure-direct-object-reference-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-insecure-direct-object-reference-or-cycubix-docs/a1-2021-or-insecure-direct-object-reference-1-or-cycubix-docs.html</loc>
@@ -352,7 +373,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-insecure-direct-object-reference-or-cycubix-docs/insecure-direct-object-reference-5.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-missing-function-level-access-control-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-missing-function-level-access-control-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-missing-function-level-access-control-or-cycubix-docs/a1-2021-or-missing-function-level-access-control-1-or-cycubix-docs.html</loc>
@@ -367,7 +388,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-missing-function-level-access-control-or-cycubix-docs/missing-function-level-access-control-3.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-spoofing-an-authentication-cookie-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-spoofing-an-authentication-cookie-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-spoofing-an-authentication-cookie-or-cycubix-docs/a1-2021-or-spoofing-an-authentication-cookie-1-or-cycubix-docs.html</loc>
@@ -376,7 +397,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a5-broken-access-control/a1-2021-or-spoofing-an-authentication-cookie-or-cycubix-docs/a1-2021-or-spoofing-an-authentication-cookie-2-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a6-2021-or-vulnerable-and-outdated-components-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a6-2021-or-vulnerable-and-outdated-components-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a6-2021-or-vulnerable-and-outdated-components-or-cycubix-docs/a6-2021-or-vulnerable-and-outdated-components-1-or-cycubix-docs.html</loc>
@@ -418,10 +439,10 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a6-2021-or-vulnerable-and-outdated-components-or-cycubix-docs/a6-2021-or-vulnerable-and-outdated-components-9-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-authentication-bypasses-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-authentication-bypasses-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-authentication-bypasses-or-cycubix-docs/a7-2021-or-authentication-bypasses-1-or-cycubix-docs.html</loc>
@@ -430,7 +451,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-authentication-bypasses-or-cycubix-docs/a7-2021-or-authentication-bypasses-2-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-insecure-login-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-insecure-login-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-insecure-login-or-cycubix-docs/a7-2021-or-insecure-login-1-or-cycubix-docs.html</loc>
@@ -439,7 +460,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-insecure-login-or-cycubix-docs/insecure-login-2.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-jwt-tokens-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-jwt-tokens-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-jwt-tokens-or-cycubix-docs/a7-2021-or-jwt-tokens-1-or-cycubix-docs.html</loc>
@@ -499,7 +520,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-jwt-tokens-or-cycubix-docs/a7-2021-or-jwt-tokens-9-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-password-reset-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-password-reset-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-password-reset-or-cycubix-docs/a7-2021-or-password-reset-1-or-cycubix-docs.html</loc>
@@ -523,7 +544,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-password-reset-or-cycubix-docs/a7-2021-or-password-reset-7-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-secure-passwords-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-secure-passwords-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-secure-passwords-or-cycubix-docs/a7-2021-or-secure-passwords-1-or-cycubix-docs.html</loc>
@@ -544,7 +565,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a7-2021-or-identity-and-authentication-failure-or-cycubix-docs/a7-2021-or-secure-passwords-or-cycubix-docs/a7-2021-or-secure-passwords-6-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a8-insecure-deserialization/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a8-insecure-deserialization/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a8-insecure-deserialization/a8-2021-or-software-and-data-integrity-or-insecure-deserialization-1-or-cycubix-docs.html</loc>
@@ -562,7 +583,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a8-insecure-deserialization/a8-2021-or-software-and-data-integrity-or-insecure-deserialization-5-or-cycubix-doc.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a9-2021-or-security-logging-failures-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a9-2021-or-security-logging-failures-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a9-2021-or-security-logging-failures-or-cycubix-docs/a9-2021-or-logging-security-1-or-cycubix-docs.html</loc>
@@ -580,7 +601,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/a9-2021-or-security-logging-failures-or-cycubix-docs/a9-2021-or-logging-security-5-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/challenges-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/challenges-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/challenges-or-cycubix-docs/challenges-or-admin-lost-password-or-cycubix-docs.html</loc>
@@ -595,10 +616,10 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/challenges-or-cycubix-docs/challenges-or-without-password-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-filtering-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-filtering-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-filtering-or-cycubix-docs/client-side-or-client-side-filtering-1-or-cycubix-docs.html</loc>
@@ -610,7 +631,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-filtering-or-cycubix-docs/client-side-or-client-side-filtering-3-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-bypass-front-end-restrictions-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-bypass-front-end-restrictions-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-bypass-front-end-restrictions-or-cycubix-docs/client-side-or-bypass-front-end-restrictions-1-or-cycubix-docs.html</loc>
@@ -622,7 +643,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-bypass-front-end-restrictions-or-cycubix-docs/client-side-or-bypass-front-end-restrictions-3-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-html-tampering-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-html-tampering-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-html-tampering-or-cycubix-docs/client-side-or-html-tampering-1-or-cycubix-docs.html</loc>
@@ -634,7 +655,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/client-side-or-cycubix-docs/client-side-or-html-tampering-or-cycubix-docs/client-side-or-html-tampering-3-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-developer-tools-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-developer-tools-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-developer-tools-or-cycubix-docs/general-or-developer-tools-1-or-cycubix-docs.html</loc>
@@ -655,7 +676,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-developer-tools-or-cycubix-docs/general-or-developer-tools-6-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-basics-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-basics-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-basics-or-cycubix-docs/general.html</loc>
@@ -667,7 +688,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-basics-or-cycubix-docs/http-basics-3.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-proxies-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-proxies-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-proxies-or-cycubix-docs/general-or-http-proxies-2-or-cycubix-docs.html</loc>
@@ -697,7 +718,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-http-proxies-or-cycubix-docs/http-proxies.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-the-cia-triad-or-cycubix-docs/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-the-cia-triad-or-cycubix-docs/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-the-cia-triad-or-cycubix-docs/general-or-the-cia-triad-1-or-cycubix-docs.html</loc>
@@ -715,7 +736,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/general-or-the-cia-triad-or-cycubix-docs/general-or-the-cia-triad-5-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/sensitive-data-exposure/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/sensitive-data-exposure/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/sensitive-data-exposure/a2-2021-or-crypto-basics-1-or-cycubix-docs.html</loc>
@@ -745,10 +766,10 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/solutions/sensitive-data-exposure/a2-2021-or-crypto-basics-9-or-cycubix-docs.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/about-webwolf/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/about-webwolf/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/about-webwolf/landing-page.html</loc>
@@ -763,7 +784,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/final-configuration.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/installation-1/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/installation-1/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/installation-1/docker.html</loc>
@@ -778,7 +799,7 @@
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/webgoat-8/system-requirements.html</loc>
   </url>
   <url>
-    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/zed-attack-proxy-zap/README.html</loc>
+    <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/zed-attack-proxy-zap/</loc>
   </url>
   <url>
     <loc>https://docs.cycubix.com/application-security-series/web-application-security-essentials/zed-attack-proxy-zap/changing-port-number.html</loc>
